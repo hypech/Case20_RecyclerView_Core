@@ -1,4 +1,4 @@
-package com.hypech.case20_recyclerview_core;
+package com.hypech.case21_recyclerview_core;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
